@@ -30,6 +30,11 @@ This repository centralizes templates, methodological structures, and tools desi
 
 ---
 
+## Langues / Languages
+* **Français, Portugais, Anglais, Allemand, Luxembourgeois** (Maîtrise opérationnelle complète)
+
+--- 
+
 ## Liens Professionnels / Professional Links
 
 * **Portfolio Professionnel :** [projet-luis.lovable.app](https://projet-luis.lovable.app)
