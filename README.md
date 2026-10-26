@@ -4,7 +4,7 @@
 
 ---
 
-## 🇫🇷
+## 🇫🇷 Français
 
 ### Domaines d'Expertise & Compétences Clés
 * **Gestion Opérationnelle :** Pilotage d'équipes pluridisciplinaires (jusqu'à 175 collaborateurs), optimisation des processus, gestion budgétaire et de la chaîne de valeur.
@@ -17,7 +17,7 @@ Ce dépôt centralise des modèles, des structures méthodologiques et des outil
 
 ---
 
-## 🇬🇧
+## 🇬🇧 English
 
 ### Core Expertise & Key Competencies
 * **Operational Management:** Directing multidisciplinary teams (up to 175 staff members), process optimization, budget management, and value chain oversight.
